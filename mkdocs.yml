@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "2026全球翻译新趋": 2026全球翻译新趋势-深度解析跨文化沟通的基石与高效策略.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
