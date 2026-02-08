@@ -22,6 +22,7 @@ use_directory_urls: false
 nav:
   - "Home": index.md
   - "2026全球翻译新趋": 2026全球翻译新趋势-深度解析跨文化沟通的基石与高效策略.md
+  - "2026全球游戏深度": 2026全球游戏深度解析-从娱乐到经济-探索数字世界的无限魅力.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
